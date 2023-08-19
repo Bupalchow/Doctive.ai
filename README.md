@@ -1,8 +1,6 @@
 # Doctive.ai
 medical symptoms analyzer ai tool 
 
-# ** If  any inaccuracies do train the model before deployment**
-
 # AI-Powered Medical Diagnosis Web Application
 
 Welcome to our AI-Powered Medical Diagnosis Web Application! This project aims to provide users with a user-friendly platform to input their symptoms, receive an instant diagnosis, and potentially gain valuable insights into their health conditions. Using PyWebIO, we've transformed our model into an interactive web application, making healthcare more accessible and efficient.
