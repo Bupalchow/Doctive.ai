@@ -20,4 +20,12 @@ We have a list of symptoms, Using the PyWebIO we have to convert our model into 
 To experience the magic of our AI-Powered Medical Diagnosis Web Application, follow these steps:
 
 1. Clone this repository to your local machine.
-   git clone 
+   git clone https://github.com/Bupalchow/Doctive.ai/tree/main/doctive.ai
+2. install required dependencies
+   Flask
+   pywebio
+   pandas
+
+3. Run the application using the command
+   python app.py
+
