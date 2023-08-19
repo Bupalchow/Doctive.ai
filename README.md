@@ -26,6 +26,6 @@ To experience the magic of our AI-Powered Medical Diagnosis Web Application, fol
    pywebio
    pandas
 
-3. Run the application using the command
+4. Run the application using the command
    python app.py
 
